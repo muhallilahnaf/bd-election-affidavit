@@ -1,0 +1,38 @@
+eReturn
+
+Reference Number. 9938649777
+: i
+: se “te im red ‘
+if
+j Government of the People’s Republic of Bangladesh
+| f : National Board of Revenue
+| income Tax Department
+income Tax Certificate ~
+7 Assessment Year: 2025-2026
+| . Taxpayer's Name : MASalam
+H Taxpayer's Identification Number (TIN) : §6272$829049
+1 Father's Name > Late M Belaet Hossain
+; Mother's Name > tate M Maeda Begum
+Current Address : Prop. $.N. Corporation, House no,-34,
+Awal Center, Flat no.-21, Kamal
+Ataturk Avenue, Banani C/A,, Dhaka
+Permanent Address House no.-34, Awal Center, Flat
+no.-21, Kamal Ataturk Avenue, Banani
+C/A, Dhaka
+Status Individual -> Bangladeshi -> Having
+NIo
+*
+
+Thvs is to certify that M. A Salam is a registered taxpayer of Taxes Circle-007 (Company).
+Taxes Zone-O1, Dhaka. The taxpayer has filed the return of income for the Assessment
+Year 2025-2026. Shown Total income 1,732,822 BOT, Net Wealth 26,02,69.808 BOT and
+
+Paid Tax 61,986,201 BDT.
+& s
+
+on
+
+This is a system generated certificate, and requires no signature.
+
+pra Ws st -
+

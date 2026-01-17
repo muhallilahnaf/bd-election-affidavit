@@ -1,0 +1,50 @@
+Taxpayer's Name
+
+Taxpayer's Identification Number (TIN)
+Father's Name
+
+Mother's Name
+
+Current Address
+
+Permanent Address
+
+Status
+
+eReturn
+
+Reference Number. 3473177121
+
+Government of the People's Republic of Bangladesh
+National Board of Revenue
+Income Tax Department
+
+Income Tax Certificate
+Assessment Year: 2025-2026
+
+Abdul Malak
+
+742770616516
+
+Dodu Meah
+
+Rabia Begum
+
+C/o: Golam Sobhan Bor Bari, East
+Kathariya, P.O: Kathariya, Banskhali,
+Chattogram
+
+C/o: Golam Sobhan Bor Bari, East
+Kathariya, P.O: Kathariya, Banskhali,
+Chattogram
+
+Individual -> Bangladeshi -> Having
+NID
+
+This is to certify that Abdul Malak is a registered taxpayer of Taxes Circle-016, Taxes Zone-01,
+
+Chattogram. The taxpayer has filed the return of income for the Assessment Year 2025-2026.
+Shown Total Income 3,47,100 BDT, Net Wealth 9,04,800 BDT and Paid Tax 0 BDT.
+
+This is a system generated certificate, and requires no signature.
+

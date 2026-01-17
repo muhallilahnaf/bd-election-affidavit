@@ -1,0 +1,47 @@
+a”: Certificate
+
+eReturn
+
+Reference Number: 10556330367
+
+Government of the People’s Republic of Bangladesh
+National Board of Revenue
+Income Tax Department
+
+income Tax Certificate
+Assessment Year: 2025-2026
+
+Taxpayer's Name > Kabir Anmed
+
+Taxpayer's Identification Number (TIN) > 293358713729
+
+Father's Name > Jalal Anmed
+
+Mother's Name :  Semona Begom
+
+Current Address : 178, Arambag, Motijheel, Dhaka
+
+Permanent Address :  1493/A, Khilgaon, Dhaka
+
+Status > Individual -> Bangladeshi ->
+Having NID
+
+This is to certify that Kabir Ahmed is a registered taxpayer of Taxes Circle-103, Taxes
+Zone-05, Dhaka. The taxpayer has filed the return of income for the Assessment Year
+2025-2026. Shown Total Income 28,43,752 BDT, Net Wealth 3,25,37,758 BDT and Paid
+Tax 5,97,615 BDT.
+
+This is a system generated certificate, and requires no signature.
+
+| Please choose a criteria for a custom certificate:
+‘
+!
+
+Total income
+Net Wealth
+
+i Paid Tax
+
+|
+|
+{ & Download }
