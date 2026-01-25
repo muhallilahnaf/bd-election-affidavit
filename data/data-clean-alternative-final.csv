@@ -1,4 +1,4 @@
-filename,name_bn,zillaID,constituencyID,tin,father,mother,nid,current_addr,permanent_addr,shown,paid,wealth,text_name,cert_name,slip_name,party_en
+filename,name_bn,zillaID,constituencyID,tin,father,mother,nid,current_addr,permanent_addr,income,tax,wealth,text_name,cert_name,slip_name,party
 "1,109,মশিউর রহমান.txt",মশিউর রহমান,1,109,251976423191.0,,,,,,,,,,,,Independent
 "1,109,মোঃ অলি উল্লাহ.txt",মোঃ অলি উল্লাহ,1,109,,,,2802323747.0,,,800000.0,45000.0,,   md oli ullah    ,,,Islami Andolan Bangladesh
 "1,109,মোঃ জামাল হোসাইন.txt",মোঃ জামাল হোসাইন,1,109,466275484177.0,md moslem ali khan,aleya begum,3734087442.0,101 nasiruddin shardar lane sutrapur dhaka,khanbari vill jaliaghata po rupdon ps pathorghata dist barguna patharghata barguna,5000.0,5000.0,713000.0,   md jamal hossain    ,md jamal hossain,md jamal hossain,JP (Manju)
